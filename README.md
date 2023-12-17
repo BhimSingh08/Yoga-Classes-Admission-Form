@@ -19,3 +19,6 @@
 5. Contact number must consist of 10 digits.
 6. Fees should be exactly equal to 500.
 7. User must select a slot in order to make the payment.
+
+<h3>ER-Diagram</h3>
+<img width="656" alt="Screenshot 2023-12-17 222356" src="https://github.com/BhimSingh08/Yoga-Classes-Admission-Form/assets/108855385/5f7396be-011e-40ed-b962-7c325593052f">
